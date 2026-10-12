@@ -1,3 +1,0 @@
-python-telegram-bot
-edge-tts>=6.1.9
-aiohttp
